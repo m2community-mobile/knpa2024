@@ -1,0 +1,6 @@
+framework module Pods_knpa2024_Enter {
+  umbrella header "Pods-knpa2024 Enter-umbrella.h"
+
+  export *
+  module * { export * }
+}
